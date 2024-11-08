@@ -4,12 +4,12 @@
 
 
 ## 游戏特色
-- 特色1
+- 特色1 
 - 特色2
 - 特色3
 
 ## 游戏截图
-![游戏截图1](https://url-to-image1)
-![游戏截图2](https://url-to-image2)
+![游戏截图1](https://th.bing.com/th/id/OIP.Zl8JDhVK4doO7FGxsf36vgHaEo?rs=1&pid=ImgDetMain)
+
 
 ## 个人感受
